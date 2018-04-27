@@ -6,7 +6,7 @@ My global .gitignore
 
 Cloned this repo into your home directory:
 
-    git clone https://github.com/GitBruno/.gitignore_global.git ~/
+    git clone https://github.com/GitBruno/.gitignore_global.git ~/.gitignore_global
 
 Add to the global ignore to your global config file:
 
