@@ -4,7 +4,7 @@ My global .gitignore
 
 ## Install
 
-Cloned this repo into your home directory:
+Clone this repo into your home directory:
 
     git clone https://github.com/GitBruno/.gitignore_global.git ~/.gitignore_global
 
